@@ -88,7 +88,7 @@ The dataset simulates IoT sensor readings:
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/your-username/AI-Predictive-Maintenance-IoT.git
+git clone https://github.com/ananya020pradhan/AI-Predictive-Maintenance-IoT.git
 cd AI-Predictive-Maintenance-IoT
 
 ---
@@ -184,7 +184,11 @@ streamlit run app.py
 
 Ananya Pradhan
 
+## 🤝 Connect With Me
 
+If you like this project or want to collaborate, feel free to connect with me on LinkedIn:
+
+👉 Connect with me on LinkedIn: www.linkedin.com/in/ananya-pradhan-10bb462ba
 
 ---
 
